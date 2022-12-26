@@ -1,0 +1,9 @@
+[submodule "3rdParty/CMakeLibraryTemplate"]
+	path = 3rdParty/CMakeLibraryTemplate
+	url = https://github.com/Targoman/CMakeLibraryTemplate.git
+[submodule "3rdParty/CMakeDummyLib2"]
+	path = 3rdParty/CMakeDummyLib2
+	url = https://github.com/Targoman/CMakeDummyLib2.git
+[submodule "3rdParty/ISO639"]
+	path = 3rdParty/ISO639
+	url = https://github.com/Targoman/ISO639.git
